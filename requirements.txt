@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+openpyxl
+python-Levenshtein
+tqdm
+fake-useragent
